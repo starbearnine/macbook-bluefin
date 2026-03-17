@@ -1,7 +1,7 @@
 name: macbook-bluefin
 description: Custom Bluefin with Broadcom Drivers
 base-image: ghcr.io/ublue-os/bluefin
-image-version: latest
+image-version: 42
 
 modules:
   - type: script
